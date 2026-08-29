@@ -136,4 +136,4 @@ class SensorCard extends StatelessWidget {
     );
   }
 }
-// [Auto-Sync] Diagnostic check passed at 2026-08-29 14:38:20
+// [Auto-Sync] Diagnostic check passed at 2026-08-29 14:40:30
