@@ -115,4 +115,4 @@ class FirebaseService {
     }
   }
 }
-// [Auto-Sync] Diagnostic check passed at 2026-10-05 14:12:40
+// [Auto-Sync] Diagnostic check passed at 2026-10-05 14:17:17
