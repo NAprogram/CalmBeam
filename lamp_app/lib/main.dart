@@ -67,4 +67,4 @@ class _AuthGate extends StatelessWidget {
     );
   }
 }
-// [Auto-Sync] Diagnostic check passed at 2026-10-07 09:08:40
+// [Auto-Sync] Diagnostic check passed at 2026-10-07 09:09:49
